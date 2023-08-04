@@ -1,0 +1,4 @@
+/Users/connorjones/Desktop/Old CS Stuff/CS2420/a5-list-Cojo99/cmake-build-debug/CMakeFiles/tester_list.dir
+/Users/connorjones/Desktop/Old CS Stuff/CS2420/a5-list-Cojo99/cmake-build-debug/CMakeFiles/tester_fifth.dir
+/Users/connorjones/Desktop/Old CS Stuff/CS2420/a5-list-Cojo99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/connorjones/Desktop/Old CS Stuff/CS2420/a5-list-Cojo99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
